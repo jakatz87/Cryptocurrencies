@@ -1,7 +1,7 @@
 #  Cryptocurrencies
 
 ## Overview
-I used unsupervised machine learning with principal component analysis and K Means to classify various cryptocurrencies and display the clustered results.
+I used unsupervised machine learning with Principal Component Analysis and K Means to classify various cryptocurrencies and display the clustered results.
 
 ## Resources
 - Crypto_data.csv
